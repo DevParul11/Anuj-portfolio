@@ -1,0 +1,81 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background: #f7f7f9;
+    color: #222;
+}
+
+/* HEADER */
+header {
+    text-align: center;
+    padding: 60px 20px;
+    background: black;
+    color: white;
+}
+
+header h1 {
+    font-size: 42px;
+}
+
+header p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.btn {
+    background: white;
+    padding: 10px 20px;
+    color: black;
+    text-decoration: none;
+    font-weight: 600;
+    border-radius: 6px;
+}
+
+/* SECTION */
+section {
+    padding: 50px 20px;
+    max-width: 900px;
+    margin: auto;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 28px;
+    border-left: 5px solid black;
+    padding-left: 10px;
+}
+
+/* CARD */
+.card {
+    background: white;
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 8px;
+    box-shadow: 0px 0px 8px #ccc;
+}
+
+.skills-box span {
+    background: black;
+    color: white;
+    padding: 8px 15px;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 4px;
+}
+
+/* FOOTER */
+footer {
+    background: #111;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
