@@ -3,6 +3,8 @@ Hello! My name is Anuj Prakash, and I am an aspiring BBA Student, and a professi
 
 This repository showcases my professional journey, highlighting my diverse skillset, experiences, and passion across various domains including business administration, event coordination, and creative photography.
 
+![Anuj Prakash Portfolio Preview](Screenshot%202025-11-18%20181413.png)
+
 🌟 Key Sections of the Portfolio
 In my hosted portfolio, you will find detailed information across these key sections:
 
